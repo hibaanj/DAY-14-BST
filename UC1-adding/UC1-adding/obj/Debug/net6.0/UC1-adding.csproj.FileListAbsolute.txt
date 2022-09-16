@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\bin\Debug\net6.0\UC1-adding.exe
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\bin\Debug\net6.0\UC1-adding.deps.json
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\bin\Debug\net6.0\UC1-adding.runtimeconfig.json
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\bin\Debug\net6.0\UC1-adding.dll
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\bin\Debug\net6.0\UC1-adding.pdb
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.dll
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\refint\UC1-adding.dll
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.pdb
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\UC1-adding.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC1-adding\UC1-adding\obj\Debug\net6.0\ref\UC1-adding.dll

@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\bin\Debug\net6.0\UC1generics.exe
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\bin\Debug\net6.0\UC1generics.deps.json
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\bin\Debug\net6.0\UC1generics.runtimeconfig.json
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\bin\Debug\net6.0\UC1generics.dll
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\bin\Debug\net6.0\UC1generics.pdb
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.AssemblyInfo.cs
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.dll
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\refint\UC1generics.dll
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.pdb
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\UC1generics.genruntimeconfig.cache
+C:\Users\anjum\source\repos\DAY-14-BST\UC1-adding\UC1generics\obj\Debug\net6.0\ref\UC1generics.dll
