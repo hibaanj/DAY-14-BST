@@ -22,4 +22,4 @@ namespace UC1_adding
             Console.ReadLine();
         }
     }
-}
+} 
